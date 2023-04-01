@@ -1,0 +1,1 @@
+# binary-qr-code-android
